@@ -10,3 +10,4 @@ JMC-Vigus
 Ferari
 Porch
 Chevrolet
+SKoda
