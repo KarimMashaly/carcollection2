@@ -10,3 +10,5 @@ JMC-Vigus
 Ferari
 Porch
 Chevrolet-Optera
+SKoda
+Mutsubishi
