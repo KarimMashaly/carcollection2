@@ -5,3 +5,6 @@ Kia
 Opel
 Hyundai
 Marcedes-Benz-Maybah
+Marcedes-Benz
+JMC
+Ferari
