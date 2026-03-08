@@ -6,5 +6,5 @@ Opel
 Hyundai
 Marcedes-Benz-Maybah
 Marcedes-Benz
-JMC
+JMC-Vigus
 Ferari
